@@ -1,0 +1,7 @@
+venv
+__pycache__
+img.txt
+Untitled.ipynb
+.ipynb_checkpoints
+2. Training and Detection.ipynb
+Tensorflow
