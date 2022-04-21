@@ -4,4 +4,6 @@ img.txt
 Untitled.ipynb
 .ipynb_checkpoints
 2. Training and Detection.ipynb
-Tensorflow
+Tensorflow/models
+Tensorflow/protoc
+Tensorflow/workspace
